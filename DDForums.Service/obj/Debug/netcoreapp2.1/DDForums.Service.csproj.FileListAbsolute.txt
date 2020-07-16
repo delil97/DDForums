@@ -1,0 +1,12 @@
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\bin\Debug\netcoreapp2.1\DDForums.Service.deps.json
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\bin\Debug\netcoreapp2.1\DDForums.Service.dll
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\bin\Debug\netcoreapp2.1\DDForums.Service.pdb
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\bin\Debug\netcoreapp2.1\DDForums.Data.dll
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\bin\Debug\netcoreapp2.1\DDForums.Data.pdb
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.csprojAssemblyReference.cache
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.AssemblyInfoInputs.cache
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.AssemblyInfo.cs
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.csproj.CopyComplete
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.dll
+C:\Users\Dator\Desktop\DDForums\DDForums.Service\obj\Debug\netcoreapp2.1\DDForums.Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\bin\Debug\netcoreapp2.1\DDForums.Data.deps.json
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\bin\Debug\netcoreapp2.1\DDForums.Data.dll
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\bin\Debug\netcoreapp2.1\DDForums.Data.pdb
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\obj\Debug\netcoreapp2.1\DDForums.Data.csprojAssemblyReference.cache
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\obj\Debug\netcoreapp2.1\DDForums.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\obj\Debug\netcoreapp2.1\DDForums.Data.AssemblyInfoInputs.cache
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\obj\Debug\netcoreapp2.1\DDForums.Data.AssemblyInfo.cs
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\obj\Debug\netcoreapp2.1\DDForums.Data.dll
+C:\Users\Dator\Desktop\DDForums\DDForums.Data\obj\Debug\netcoreapp2.1\DDForums.Data.pdb

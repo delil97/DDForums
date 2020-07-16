@@ -1,0 +1,26 @@
+﻿@model DDForums.Models.Forum.ForumIndexModel
+
+<h1>Forums</h1>
+
+<table class="table table-hover" id="forumIndexTable"> 
+    <tbody>
+        @foreach (var forum in Model.ForumList)
+        {
+        <tr>
+            <td>
+    @*Here we created a link then we are using these tags helpers here to tell our view how to generate this particular link*@
+                <a asp-controller="Forum" asp-action="Topic" asp-route-id="@forum.Id"> 
+                    @forum.Name
+
+                </a>
+                 
+            </td>
+            <td>
+                @forum.Description
+            </td>
+
+        </tr>
+
+        }
+    </tbody>
+</table>

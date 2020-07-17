@@ -36,7 +36,7 @@ namespace DDForums.Controllers
         }
 
         public IActionResult Topic (int id)
-        {
+         {
             var forum = _forumService.GetById(id);
 
             var posts = forum.Posts;
